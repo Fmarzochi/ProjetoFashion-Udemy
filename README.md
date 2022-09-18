@@ -2,6 +2,7 @@
 Udemy - Treinando HTML e CSS do Básico para relembrar os conceitos!
 ##
 HTML e CSS do Básico <hr>
+📁 Click para ver o projeto - https://fmarzochi.github.io/ProjetoFashion-udemy/
 
 <ul>
 <li>Projeto 2 - HTML CSS</li>
